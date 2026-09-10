@@ -55,7 +55,7 @@
 
 ## 현재 저는 이런 사람이에요
 - AERU Cloud Infrastructure (ACI)를 운용하고 있어요.
-   - Proxmox Virtual Environment와 pfSense등의 기술을 사용하며, 저희 기술의 토대가 된 `마인크래프트 서버 호스팅 기술 및 운영 지원` 업무를 담당하고 있어요.
+   - Proxmox Virtual Environment와 pfSense등의 기술을 사용하며, 저희 기술의 토대가 된 `가상 서버 호스팅 기술 및 운영 지원` 업무를 담당하고 있어요.
    - 가용 중인 대표적인 하위 서비스로는 Nest.js, PostgreSQL, Prisma와 WS 기술 등을 응용하여 만든 `AERU Cloud Console`과, 결제 기능을 OAuth처럼 방대한 연동성을 지니도록 구성한 `AERU Pay` 등이 있어요. 다양한 개인 정보와 서버의 정보를 취급하다 보니, 특히 **정보를 안전하게 보존, 암호화, 방어**하는 방식에 대해 끊임없이 고찰했어요. 
      
 - Sketter SCN의 인프라 관리 직원이에요.
