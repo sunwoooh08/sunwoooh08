@@ -1,7 +1,7 @@
 <br><br>
 
 # 👋 안녕하세요, 오선우입니다.
-> 세상을 좀 더 나은 방향으로 만들고자 AI 기술을 끊임 없이 구성하는 백엔드 개발자에요.<br>
+> 세상을 좀 더 나은 방향으로 만들고자 AI 기술을 끊임 없이 구성하는 백엔드 개발자에요.<br>참고로, 최근에는 React와 NextJS 기반 프론트엔드도 공부해보고 있어요.<br>
 [VELOG](https://velog.io/@sunwoooh08) | [LINKEDIN](https://www.linkedin.com/in/prevw/) | [AERU](https://github.com/aeru-network) | [TENSOR](https://github.com/its-just-a-team)
 
 <br><br>
